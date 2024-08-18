@@ -15,7 +15,6 @@ This project implements a Generative Adversarial Network (GAN) using TensorFlow 
 - [Training the GAN](#training-the-gan)
 - [Saving Generated Images](#saving-generated-images)
 - [Results](#results)
-- [License](#license)
 
 ## Repository Structure
 
@@ -92,7 +91,3 @@ The `save_imgs` function saves a grid of generated images every 100 epochs (conf
 ## Results
 
 During training, the model prints out the discriminator's loss and accuracy, as well as the generator's loss at each epoch. The generated images can be found in the `generated_images/` directory, showcasing the progression of the generator's ability to create realistic digits.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
