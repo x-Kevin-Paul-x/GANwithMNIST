@@ -38,7 +38,7 @@ To run this project, you need the following dependencies:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/MNIST-GAN-Image-Generation.git
+   git clone https://github.com/x-Kevin-Paul-x/MNIST-GAN-Image-Generation.git
    cd MNIST-GAN-Image-Generation
    ```
 
